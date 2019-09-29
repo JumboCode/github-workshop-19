@@ -19,7 +19,7 @@ Essentially, the basic functionalities of a GitHub-based development pipeline.
 0. Make sure you have node and npm installed from https://nodejs.org/en/
 
 1. Clone this repo: 
-`git clone https://github.com/JumboCode/GitHub-Workshop.git`
+`git clone https://github.com/JumboCode/github-workshop-19.git`
 
 2. Run `npm install` and `npm start` to get your local server running
 
