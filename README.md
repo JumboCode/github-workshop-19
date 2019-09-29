@@ -48,7 +48,8 @@ $ master
 $ * tony-monaco/workshop
 ```
 
-8. Add a new file to this directory! Create a new file, call it `[first name]-[last name].txt`. Put whatever you want in the body of the file.
+8. Change the index.js to add the get url to your name. 
+`app.get('/manish', (req, res)=> res.send('Hi I am manish!'))`
 
 9. Run `git status`. You should see something like:
 ```
