@@ -1,0 +1,7 @@
+{
+  "name": "GitHub Workshop",
+  "description": "Workshop on github",
+  "repository": "https://github.com/JumboCode/github-workshop-19",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
